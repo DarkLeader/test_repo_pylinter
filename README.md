@@ -12,10 +12,10 @@ Python linting packages covered:
 
 # Contents
 
-    main.py
+    * main.py
         only .py file
         contains obvious mypy, flake8, and isort errors
-    .github/workflows/main.py
+    * .github/workflows/main.py
         GitHub workflow file that uses the GitHub action pylinter
         can be used as is, or can be customized with the various flags for pylinter
         can also add/remove the last two code sections that will automatically commit and push the code changes made by isort (more documentation is on the pylinter page)
