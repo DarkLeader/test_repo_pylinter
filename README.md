@@ -1,17 +1,16 @@
 # test_repo_pylinter
 
-Copyright (c) 2021, programmingwithalex
-Description
+# Description
 
 Demo repo to accompany YouTube video demonstrating how to use the pylinter GitHub action.
 
 Python linting packages covered:
 
-    flake8
-    mypy
-    isort
+   * flake8
+   * mypy
+   * isort
 
-Contents
+# Contents
 
     main.py
         only .py file
